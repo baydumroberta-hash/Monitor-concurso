@@ -67,26 +67,37 @@ def encontra_trecho_relevante(texto: str, palavras_chave: list) -> str | None:
 
 
 def enviar_whatsapp(config: dict, mensagem: str) -> bool:
-    notif = config["notificacao"]
-    telefone = notif["telefone_destino"]
-    apikey = notif["callmebot_apikey"]
-
-    if "SEU_NUMERO" in telefone or "SUA_APIKEY" in apikey:
-        print("[AVISO] config.json ainda não foi preenchido com telefone/apikey reais. "
-              "Mensagem que seria enviada:\n", mensagem)
+    """Envia a mensagem para TODOS os destinatários cadastrados em config.json.
+    Retorna True se pelo menos um envio funcionou."""
+    destinatarios = config["notificacao"].get("destinatarios", [])
+    if not destinatarios:
+        print("[AVISO] Nenhum destinatário configurado em config.json.")
         return False
 
-    texto_url = urllib.parse.quote(mensagem)
-    url = (f"https://api.callmebot.com/whatsapp.php?"
-           f"phone={telefone}&text={texto_url}&apikey={apikey}")
-    try:
-        req = urllib.request.Request(url, headers=HEADERS)
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            resp.read()
-        return True
-    except Exception as e:
-        print(f"[ERRO] Falha ao enviar WhatsApp: {e}")
-        return False
+    algum_enviado = False
+    for dest in destinatarios:
+        telefone = dest.get("telefone", "")
+        apikey = dest.get("callmebot_apikey", "")
+
+        if "SEU_NUMERO" in telefone or "SUA_APIKEY" in apikey or not telefone or not apikey:
+            print(f"[AVISO] Destinatário sem telefone/apikey válidos, pulando. "
+                  f"Mensagem que seria enviada:\n{mensagem}")
+            continue
+
+        texto_url = urllib.parse.quote(mensagem)
+        url = (f"https://api.callmebot.com/whatsapp.php?"
+               f"phone={telefone}&text={texto_url}&apikey={apikey}")
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                resp.read()
+            print(f"  -> enviado para {telefone}")
+            algum_enviado = True
+        except Exception as e:
+            print(f"[ERRO] Falha ao enviar WhatsApp para {telefone}: {e}")
+        time.sleep(2)  # espaçar entre destinatários por causa do rate-limit do CallMeBot
+
+    return algum_enviado
 
 
 def carregar_json(caminho: str, padrao):
