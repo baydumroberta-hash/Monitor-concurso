@@ -1,0 +1,55 @@
+{
+  "notificacao": {
+    "telefone_destino": "SEU_NUMERO_COM_DDI_DDD",
+    "callmebot_apikey": "SUA_APIKEY_CALLMEBOT",
+    "servico": "callmebot"
+  },
+  "palavras_chave_gatilho": [
+    "edital publicado",
+    "edital do concurso",
+    "inscrições abertas",
+    "inscrições iniciam",
+    "abertura de inscrições",
+    "concurso público",
+    "período de inscrição",
+    "banca definida",
+    "banca organizadora",
+    "regulamento publicado"
+  ],
+  "fontes_oficiais": [
+    { "regiao": "DPU (Nacional)", "url": "https://www.dpu.def.br/" },
+    { "regiao": "DPE-AC", "url": "https://www.defensoria.ac.def.br/" },
+    { "regiao": "DPE-AL", "url": "https://www.defensoria.al.def.br/" },
+    { "regiao": "DPE-AP", "url": "https://www.defensoria.ap.def.br/" },
+    { "regiao": "DPE-AM", "url": "https://www.defensoria.am.def.br/" },
+    { "regiao": "DPE-BA", "url": "https://www.defensoria.ba.def.br/" },
+    { "regiao": "DPE-CE", "url": "https://www.defensoria.ce.def.br/" },
+    { "regiao": "DPE-DF", "url": "https://www.defensoria.df.def.br/" },
+    { "regiao": "DPE-ES", "url": "https://www.defensoria.es.def.br/" },
+    { "regiao": "DPE-GO", "url": "https://www.defensoria.go.def.br/" },
+    { "regiao": "DPE-MA", "url": "https://www.defensoria.ma.def.br/" },
+    { "regiao": "DPE-MT", "url": "https://www.defensoria.mt.def.br/" },
+    { "regiao": "DPE-MS", "url": "https://www.defensoria.ms.def.br/" },
+    { "regiao": "DPE-MG", "url": "https://www.defensoria.mg.def.br/" },
+    { "regiao": "DPE-PA", "url": "https://www.defensoria.pa.def.br/" },
+    { "regiao": "DPE-PB", "url": "https://www.defensoria.pb.def.br/" },
+    { "regiao": "DPE-PR", "url": "https://www.defensoriapublica.pr.def.br/" },
+    { "regiao": "DPE-PE", "url": "https://www.defensoria.pe.def.br/" },
+    { "regiao": "DPE-PI", "url": "https://www.defensoria.pi.def.br/" },
+    { "regiao": "DPE-RJ", "url": "https://www.defensoria.rj.def.br/" },
+    { "regiao": "DPE-RN", "url": "https://www.defensoria.rn.def.br/" },
+    { "regiao": "DPE-RS", "url": "https://www.defensoria.rs.def.br/" },
+    { "regiao": "DPE-RO", "url": "https://www.defensoria.ro.def.br/" },
+    { "regiao": "DPE-RR", "url": "https://www.defensoria.rr.def.br/" },
+    { "regiao": "DPE-SC", "url": "https://www.defensoria.sc.def.br/" },
+    { "regiao": "DPE-SP", "url": "https://www.defensoria.sp.def.br/" },
+    { "regiao": "DPE-SE", "url": "https://www.defensoria.se.def.br/" },
+    { "regiao": "DPE-TO", "url": "https://www.defensoria.to.def.br/" }
+  ],
+  "fontes_agregadoras": [
+    { "nome": "Estrategia Concursos - Defensorias 2026", "url": "https://www.estrategiaconcursos.com.br/blog/concursos-defensoria-2026/" },
+    { "nome": "Gran Cursos - Concursos Defensorias Publicas", "url": "https://blog.grancursosonline.com.br/concursos-defensorias-publicas/" },
+    { "nome": "Magistrar - Concursos Defensoria", "url": "https://magistrarcursos.com.br/blog/concursos-defensoria/" },
+    { "nome": "ANADEP - Noticias", "url": "https://anadep.org.br/" }
+  ]
+}
