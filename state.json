@@ -1,6 +1,6 @@
 {
   "https://www.dpu.def.br/": {
-    "hash": "7d85e66b29b940562b9e8a944f26201bdfff692d141302588cdf451565deeffa",
+    "hash": "9e0271ff868a49523672507571c50b5d28976397e3d68e6eb57d1aef6602775a",
     "trecho": null
   },
   "https://www.defensoria.ce.def.br/": {
@@ -9,6 +9,10 @@
   },
   "https://www.defensoria.go.def.br/": {
     "hash": "73cecf3bb488cc136677df73304209dcbd15b76b774bdcb11ee8cfd0827366d6",
+    "trecho": null
+  },
+  "https://www.defensoria.ma.def.br/": {
+    "hash": "64650e761aba4e6c5455fc5ca6cae9dc3b3c746033e58192ec8af4f18cb8e3da",
     "trecho": null
   },
   "https://www.defensoria.mt.def.br/": {
@@ -28,7 +32,7 @@
     "trecho": null
   },
   "https://www.defensoria.pe.def.br/": {
-    "hash": "001cd452368fdb184377a9c5fa38f53743c5c7bf7b3800f779bb213e5bb93b2a",
+    "hash": "bc8faeb7159e8e007a74f0ca304fd99324ed81e97e43067c9f3e6285f2651fb5",
     "trecho": null
   },
   "https://www.defensoria.rj.def.br/": {
@@ -36,7 +40,7 @@
     "trecho": null
   },
   "https://www.defensoria.rn.def.br/": {
-    "hash": "2b48526416e29717dbfa7ed1d4afec6bc2e5d8453d8af78ed32cff962feac3da",
+    "hash": "e00b6d28e7128e26e80b7a8db93ce5bdf614d2144bdf06df66099305c0be041a",
     "trecho": null
   },
   "https://www.defensoria.rs.def.br/": {
@@ -64,11 +68,11 @@
     "trecho": "vagas a definir, a DPE GO está com a máquina pronta para um novo certame. ​ DPE MA (Maranhão): com banca definida, o concurso ofertará vagas para Defensor Público, podendo ser um dos primeiros a sair em 2026. ​ DPE MT (Mato Grosso): com banca defini"
   },
   "https://blog.grancursosonline.com.br/concursos-defensorias-publicas/": {
-    "hash": "df19babcfba78fe7e811761e78c29a1b9272e020ec288ec8d2c7c95482e7985b",
+    "hash": "cd65c0eb104cd096b1307be1cb7b428b116c05b931d2a8448022e69e7131032a",
     "trecho": "mações Resumo Concurso DPE RJ Defensor Defensoria Pública Estadual do Rio de Janeiro Situação Atual edital publicado Banca organizadora Fundação Getúlio Vargas (FGV) Cargo Defensor Público Substituto Escolaridade Nível superior Carreira Jurídica Lota"
   },
   "https://magistrarcursos.com.br/blog/concursos-defensoria/": {
-    "hash": "3e83a8ce74f41578bbf3aa01d45777404b17ffb1104b4d1d87f54f81e18bdb76",
+    "hash": "9b4dac7ca5739af03bdc6827eca1a69a8b3f5caa1b6e6d079a02f9dec6185656",
     "trecho": "comissão do Concurso DPE RO publicou a Portaria que cria oficialmente a Comissão Organizadora do VI Concurso Público para ingresso na carreira de Defensor Público do Estado. Apesar da formação da comissão, ainda não há confirmação oficial sobre edita"
   },
   "https://anadep.org.br/": {
