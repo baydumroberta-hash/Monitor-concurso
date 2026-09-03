@@ -1,6 +1,6 @@
 {
   "https://www.dpu.def.br/": {
-    "hash": "0529aa164cfa775ce9395f98ff9b63973f0e354a15130bef91318ae5bbab7c0a",
+    "hash": "71cd099d41eda6b18f2904bc78c98243c60499d8193a31905b49944790dcc9aa",
     "trecho": null
   },
   "https://www.defensoria.ce.def.br/": {
@@ -8,7 +8,7 @@
     "trecho": null
   },
   "https://www.defensoria.go.def.br/": {
-    "hash": "c9106b868aa732c9ff65d8d4e48f14bd6fa3ac6f4b1c35fa73cd89626ce28b50",
+    "hash": "13a1709b1d05b17ab534380fe442c4caf0ffe523dcec9378a6bfafa8c68a3ac9",
     "trecho": null
   },
   "https://www.defensoria.ma.def.br/": {
@@ -27,12 +27,16 @@
     "hash": "f199e53dd0df54211765f661d217134512e40cb6a8acb43bb1f75f671f457135",
     "trecho": null
   },
+  "https://www.defensoria.pa.def.br/": {
+    "hash": "910a9ca44c3c3af56c9bb155e0acd2ea53674cc24d0346332cdd0019d9740860",
+    "trecho": null
+  },
   "https://www.defensoriapublica.pr.def.br/": {
-    "hash": "901075b08f5062f7bb350423505de5e60265fa4b3c960879e53199ba951cf874",
+    "hash": "e0d1ce8fbc70faaf8f7573d1c66aaf0f6dbe715117908b0629f58d1eb7f11184",
     "trecho": null
   },
   "https://www.defensoria.pe.def.br/": {
-    "hash": "c25050552a443f88c42fc9326d03dce8139a41bd72f7aa5e01c33999416d2ffc",
+    "hash": "4b41d138a5765b998ae007b18f5ac42f4dd34f979ffb0b148428e88442af676b",
     "trecho": null
   },
   "https://www.defensoria.rj.def.br/": {
@@ -40,11 +44,11 @@
     "trecho": null
   },
   "https://www.defensoria.rn.def.br/": {
-    "hash": "39a739d9c6307258aad68dc994bc8392516fc2e3a6a2bb88253dc8f7645da000",
+    "hash": "bbcee50efd4680c502dd320eb19438a18e9e468fda0bfcbdbca4bd69f5cdf70a",
     "trecho": null
   },
   "https://www.defensoria.rs.def.br/": {
-    "hash": "7f3d780228bc12492624bfb5f6559ba37de2c38af7700fa39ed8d4086500c43c",
+    "hash": "331ddab904824a495a2922564fb6ac297a6c76f7e5f7efff7c07f15b4dfc2f86",
     "trecho": null
   },
   "https://www.defensoria.ro.def.br/": {
@@ -56,15 +60,15 @@
     "trecho": null
   },
   "https://www.defensoria.se.def.br/": {
-    "hash": "a2dbec9a664652fb739198d779716840a264b03bce9a2190873cb7861fb1f59e",
+    "hash": "91334b67d13cbac17ab34d9f6f7208769c30061ee413e453fd5cd280338e6903",
     "trecho": null
   },
   "https://www.defensoria.to.def.br/": {
-    "hash": "78f00ec0e703a1d8e58fad0f383f5092e8ce7bfd8bdc959e221e138d3019dd26",
-    "trecho": null
+    "hash": "044096cc322742b06487957c06ae56394705c95d63bbb21eec704b371a84eb9a",
+    "trecho": "ENTO GRATUITO: PARTICIPE! Nudem debaterá avanços e desafios nas duas décadas da Lei Maria da Penha. Inscrições abertas! Mais notícias TV DPE live_tv Acesse Nosso Canal Destaques Acesse e confira a Carta de Serviços da Defensoria Pública do Estado do"
   },
   "https://www.estrategiaconcursos.com.br/blog/concursos-defensoria-2026/": {
-    "hash": "13395fd854421de4182502842f1b7425292e16a7aa4838ecf5d5c39a1ac38fd3",
+    "hash": "8c5a79ea33416bfbc70fd4851f8fe941e9b62d6586e96976d0cdf19d7a294bda",
     "trecho": "vagas a definir, a DPE GO está com a máquina pronta para um novo certame. ​ DPE MA (Maranhão): com banca definida, o concurso ofertará vagas para Defensor Público, podendo ser um dos primeiros a sair em 2026. ​ DPE MT (Mato Grosso): com banca defini"
   },
   "https://blog.grancursosonline.com.br/concursos-defensorias-publicas/": {
@@ -72,7 +76,7 @@
     "trecho": "mações Resumo Concurso DPE RJ Defensor Defensoria Pública Estadual do Rio de Janeiro Situação Atual edital publicado Banca organizadora Fundação Getúlio Vargas (FGV) Cargo Defensor Público Substituto Escolaridade Nível superior Carreira Jurídica Lota"
   },
   "https://magistrarcursos.com.br/blog/concursos-defensoria/": {
-    "hash": "d3e4da6631375914cef545aa2ffe2c4b3051a6dcd3e694019e4c1f8522f1edf4",
+    "hash": "23bc35147222aba5fcd5caf12593906111553149903bffa0459f35aaf0e6dc20",
     "trecho": "comissão do Concurso DPE RO publicou a Portaria que cria oficialmente a Comissão Organizadora do VI Concurso Público para ingresso na carreira de Defensor Público do Estado. Apesar da formação da comissão, ainda não há confirmação oficial sobre edita"
   },
   "https://anadep.org.br/": {
