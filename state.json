@@ -1,14 +1,14 @@
 {
   "https://www.dpu.def.br/": {
-    "hash": "8ce0ec0f79bac7c19356d3b6de31efaffcff96e79b29a104f00a34aaaab63a90",
+    "hash": "40fac7a5475bbac79c0023f36c04519b9c7a1b36090ab2475e10e85c85143df1",
     "trecho": null
   },
   "https://www.defensoria.ce.def.br/": {
-    "hash": "b719f7dfbae6f7fdadafdf2bac2ca8979f0c00ffffba2de75952fe6870a14d5d",
+    "hash": "ba158783b21124d41aac512438d2b878db80071c79ee48e47d5d295fa22aca6d",
     "trecho": null
   },
   "https://www.defensoria.go.def.br/": {
-    "hash": "899bc87d4ca1e67f47a257984bbe869cc658d97d1377bad7e280e2343efb485f",
+    "hash": "3207455829037ffe0c26e25dea81915fc0aa5845659ea18b5a813dac061bef73",
     "trecho": null
   },
   "https://www.defensoria.ma.def.br/": {
@@ -36,19 +36,19 @@
     "trecho": null
   },
   "https://www.defensoria.pe.def.br/": {
-    "hash": "a5822222494e1519062b7fd31a112cb150e5fd86c2baa02aeca56acdd792ae21",
-    "trecho": "o (DPPE) garantiu a reinclusão provisória de uma candidata nas listas de pessoas negras e pardas do concurso público para o cargo de Técnico Judiciário do T... 30 de setembro de 2026 19:58 Leia Mais Ver todas as notícias Diário Oficial Estado de Pern"
+    "hash": "bee0747cda49a2e3c1b41aed168b80d5dffd85c29921b1995b8e52012d2a3607",
+    "trecho": null
   },
   "https://www.defensoria.rj.def.br/": {
     "hash": "2e66038f5e5e6b01701e0b8b05447f899241b2e58ebe1bbc1b53aa1151ca43d2",
     "trecho": null
   },
   "https://www.defensoria.rn.def.br/": {
-    "hash": "9516b882644559e71a1d5a1d0356bd472cde2a86adbfae0dcfa528b942fde359",
+    "hash": "34c2951686a6642ad765cd495eecdb4cdc0172cac1df8a683a97abde1f898688",
     "trecho": null
   },
   "https://www.defensoria.rs.def.br/": {
-    "hash": "2b3ba24e0d28790f9a383c771424e945112b58c1d7ce7679bd6934aab4b2f0e1",
+    "hash": "5a7de72862cc3096a0e6a99fc94daefaca4402ae5f8ea5f0b0f41da3d37cbf9d",
     "trecho": null
   },
   "https://www.defensoria.ro.def.br/": {
@@ -56,7 +56,7 @@
     "trecho": null
   },
   "https://www.defensoria.sp.def.br/": {
-    "hash": "dd09112e0409686e5349a90eaa801d936718c190cdd1a7d2fb92202d545cccdd",
+    "hash": "9020b5bb86fc5762988e64faf4d5c5146cc7345b10d3b59e04d2a1fd5457aa03",
     "trecho": null
   },
   "https://www.defensoria.se.def.br/": {
@@ -64,7 +64,7 @@
     "trecho": null
   },
   "https://www.defensoria.to.def.br/": {
-    "hash": "a6a964c6c65084e495a3079455345214d3e0e0e3625c7d1c2af70bc47031d864",
+    "hash": "5ad4cacaab3ebe0f5fc3e1f8239eb4d7763c0d3ea684fd99c3b617d19b1373cc",
     "trecho": null
   },
   "https://www.estrategiaconcursos.com.br/blog/concursos-defensoria-2026/": {
@@ -72,15 +72,15 @@
     "trecho": "vagas a definir, a DPE GO está com a máquina pronta para um novo certame. ​ DPE MA (Maranhão): com banca definida, o concurso ofertará vagas para Defensor Público, podendo ser um dos primeiros a sair em 2026. ​ DPE MT (Mato Grosso): com banca defini"
   },
   "https://blog.grancursosonline.com.br/concursos-defensorias-publicas/": {
-    "hash": "43f75f121362f81d6ab371a8ed991a9306c8f45ae7033db90a98918bfab0e0f0",
+    "hash": "6ebeac6e1af7e8f2074a60645bd42b14bd68f9ce85e91d987013b3e46715515f",
     "trecho": "mações Resumo Concurso DPE RJ Defensor Defensoria Pública Estadual do Rio de Janeiro Situação Atual edital publicado Banca organizadora Fundação Getúlio Vargas (FGV) Cargo Defensor Público Substituto Escolaridade Nível superior Carreira Jurídica Lota"
   },
   "https://magistrarcursos.com.br/blog/concursos-defensoria/": {
-    "hash": "1ddae4a5ff5299ff70246d665b33ba68f2eaf6c8dab0a6dfde175990301ee065",
+    "hash": "8698eb6dae1499be7faf4b0b807b4804e390c99b6ce7d1e6c1081b60ca7ce9aa",
     "trecho": "atual da carreira supera R$ 33 mil, conforme atualização divulgada pela DPDF. Até o momento, não há edital publicado, banca contratada ou cronograma oficial para inscrições e provas. A previsão de 40 vagas está vinculada ao planejamento orçamentário"
   },
   "https://anadep.org.br/": {
-    "hash": "e965a5a259b138cb154ceb6b63bcee5e49e930aa3a2871b8096bea596aa36bfb",
+    "hash": "800cf2143e417781c03545bdf5796fc16e61b9f7c4e23ef049bbff0e89fa056a",
     "trecho": null
   }
 }
