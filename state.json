@@ -1,14 +1,18 @@
 {
   "https://www.dpu.def.br/": {
-    "hash": "082671a7009060a2dab255a558eda2aec5ab4c747feb9c62c47646e4da165058",
+    "hash": "7d9d698b2b781dac163789ddc73061d6878e21933eb69218c128155a0099abde",
     "trecho": null
   },
   "https://www.defensoria.ce.def.br/": {
-    "hash": "f837082ea0e3862ac7412d338622ed53f76e68b459a408790843074418349770",
+    "hash": "8e9899938c8f0999d945904f9612e2a626028d7dc2966a1306eafb6a5ed65bc4",
+    "trecho": null
+  },
+  "https://www.defensoria.es.def.br/": {
+    "hash": "6864ae41270f3bb542f96abb26ba82260b7288fcf9684b167db2cb4025dd0ccd",
     "trecho": null
   },
   "https://www.defensoria.go.def.br/": {
-    "hash": "3c69936ff237889d49049a119f78a3fbd9c70e9d97a1e00e368225a43086a8d6",
+    "hash": "cfa380c6b293fcc8aa8715ed3bb1e1676f8036d69548a6f013aa692c5ea20fc0",
     "trecho": null
   },
   "https://www.defensoria.ma.def.br/": {
@@ -32,23 +36,23 @@
     "trecho": null
   },
   "https://www.defensoriapublica.pr.def.br/": {
-    "hash": "6a77d6149b346252fafd4578cba10c7e6ed4f945424dfcde3504b25132e656ad",
+    "hash": "fabff8d9d75f183a800354995e55f944541e670651de235ddcf3deb0f479c75f",
     "trecho": null
   },
   "https://www.defensoria.pe.def.br/": {
-    "hash": "9df5b367ca4b55a033281a68b385aa888a8bd88323d65e17db10fb875f8aec2a",
+    "hash": "cc8847586fd5f7d35b9be7385bbd222631499df404dcbc5adf816ea870ca29a9",
     "trecho": null
   },
   "https://www.defensoria.rj.def.br/": {
-    "hash": "62da012606255c56bac4a441b4b57b46ff099f0d87453f40d2a8f2883166e06a",
+    "hash": "485a909b07efd44a5a8f930d2def878effeda6fc1db5f0263f1ea53f7f6ca739",
     "trecho": null
   },
   "https://www.defensoria.rn.def.br/": {
-    "hash": "a454535aa50d4121207bad886339075efef8204880d9414be811107ffbb5433b",
+    "hash": "b27b40a0fc8986485d2b8cb38f72034313ee1724185f022be4310a902481d8bb",
     "trecho": null
   },
   "https://www.defensoria.rs.def.br/": {
-    "hash": "bc1222f5afc241fb3a8e76d7f2b700ee16315e6438da80a7e5fb8f5cb8adc5e2",
+    "hash": "450c5ed654aaee4ae49d5c398a45a6b04ddc0187be1dd51aa67f1bb83f9cebed",
     "trecho": null
   },
   "https://www.defensoria.ro.def.br/": {
@@ -68,7 +72,7 @@
     "trecho": null
   },
   "https://www.estrategiaconcursos.com.br/blog/concursos-defensoria-2026/": {
-    "hash": "6cae4ced15c2da7beeea70eaeba41816bef38d59d894c84c1f85e1778fb4207d",
+    "hash": "5ab7694ff88076b673e1fbbc8ee2a53bd46dbeb926c4ad489c6a18ad1e89a757",
     "trecho": "vagas a definir, a DPE GO está com a máquina pronta para um novo certame. ​ DPE MA (Maranhão): com banca definida, o concurso ofertará vagas para Defensor Público, podendo ser um dos primeiros a sair em 2026. ​ DPE MT (Mato Grosso): com banca defini"
   },
   "https://blog.grancursosonline.com.br/concursos-defensorias-publicas/": {
@@ -76,11 +80,11 @@
     "trecho": "mações Resumo Concurso DPE RJ Defensor Defensoria Pública Estadual do Rio de Janeiro Situação Atual edital publicado Banca organizadora Fundação Getúlio Vargas (FGV) Cargo Defensor Público Substituto Escolaridade Nível superior Carreira Jurídica Lota"
   },
   "https://magistrarcursos.com.br/blog/concursos-defensoria/": {
-    "hash": "4374055c4913255c3fe0aeaa0fae5e0d421f98cb62f02a4069ad7237a14715ff",
+    "hash": "6f821f43282ddffe23f0c2ada6ce340ce9450f1fe98439e286bcc1369c469543",
     "trecho": "fensor em andamento Concurso da Defensoria Pública de São Paulo (DPE SP) O concurso DPE SP está com edital publicado. As inscrições serão realizadas de 13 de outubro a 11 de novembro de 2026 . A prova objetiva está marcada para 10 de janeiro de 2027."
   },
   "https://anadep.org.br/": {
-    "hash": "231d963b8d5ab983b5e7fc94abd1afe7ed463344a6b1eb9e72376396788d99b7",
+    "hash": "a75f6dd719058cb79fe71f029f97e529a0c13d9883869a4285714397316942b7",
     "trecho": null
   }
 }
